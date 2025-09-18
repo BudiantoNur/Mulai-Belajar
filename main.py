@@ -1,7 +1,7 @@
 nama = 'Arif'
 alamat = 'Bukit Kemuning'
-berat = 80
+berat_badan= 80
 
 print('Nama =',nama)
 print('Alamat =',alamat)
-print('Berat Badan =',berat)
+print('Berat Badan =',berat_badan)
