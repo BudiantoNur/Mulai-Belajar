@@ -40,6 +40,6 @@ print("data_float : ",data_float, ", bertipe : ", type(data_float))
 
 # tipe data biner true / false (boolean)
 data_boolean = 1.5
-print("data_boolean)) : ",data_boolean)), ", bertipe : ", type(data_boolean))
+print("data_boolean : ",data_boolean, ", bertipe : ", type(data_boolean))
 
 #tipe data khusus
