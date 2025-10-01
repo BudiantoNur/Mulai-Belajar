@@ -26,3 +26,5 @@ print("nilai a =", a)
 # assignment indirect
 b = a
 print("Nilai b =", b)
+
+# komen apalagi ini
