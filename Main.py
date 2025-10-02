@@ -38,8 +38,17 @@ print("data :", data_integer, ", bertipe :", type(data_integer))
 data_float = 1.5
 print("data_float : ",data_float, ", bertipe : ", type(data_float))
 
+# tipe data string, kumpulan karangter
+data_string = "tole"
+print("data_string : ",data_string, ", bertipe : ", type(data_string))
+
 # tipe data biner true / false (boolean)
-data_boolean = 1.5
+data_boolean = False
 print("data_boolean : ",data_boolean, ", bertipe : ", type(data_boolean))
 
 #tipe data khusus
+## bilangan kompleks
+data_kompleks = complex(5,6)
+print("data_kompleks : ", data_kompleks, ", bertipe : ", type(data_kompleks))
+
+
