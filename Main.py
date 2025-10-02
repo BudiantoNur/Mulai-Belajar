@@ -51,4 +51,7 @@ print("data_boolean : ",data_boolean, ", bertipe : ", type(data_boolean))
 data_kompleks = complex(5,6)
 print("data_kompleks : ", data_kompleks, ", bertipe : ", type(data_kompleks))
 
+## Mengambil inputan dari user
 
+data = input("Masukan nilai: ")
+print("Nilai = ", data,", type = ", type(data))
